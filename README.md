@@ -24,6 +24,8 @@
 
 
 ============== contoh 1
+<!-- language: php -->
+
 <?php
 
 namespace Kavist\RajaOngkir\Providers;
