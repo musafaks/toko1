@@ -1,7 +1,7 @@
 
 
 
-1 . Jalankan Composer install atau composer Update
+1 . Jalankan Composer install 
 2 . Copy .env.example lalu setting sesuai database
 
 3 . jalankan php artisan migrate 
